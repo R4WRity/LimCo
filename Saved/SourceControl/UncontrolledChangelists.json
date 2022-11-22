@@ -92,7 +92,11 @@
 				"D:/Ue4 Projects/LimCo/Content/Procedural_Maze_Generator/Blueprints/Cell_BP.uasset",
 				"D:/Ue4 Projects/LimCo/Content/Procedural_Maze_Generator/Blueprints/Maze_GM.uasset",
 				"D:/Ue4 Projects/LimCo/Content/Procedural_Maze_Generator/Material/M_Portal.uasset",
-				"D:/Ue4 Projects/LimCo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset"
+				"D:/Ue4 Projects/LimCo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/CL/381LM03PFI8AF9NED1SEV2.uasset",
+				"D:/Ue4 Projects/LimCo/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset",
+				"D:/Ue4 Projects/LimCo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/MK/VDGW1TAYZOEVR5Q779AJK3.uasset",
+				"D:/Ue4 Projects/LimCo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/ER/RCH45106U0JH4K4NLIDCHK.uasset",
+				"D:/Ue4 Projects/LimCo/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4I/7CPYRJR3LIVK4EE9TBIASQ.uasset"
 			]
 		}
 	]
