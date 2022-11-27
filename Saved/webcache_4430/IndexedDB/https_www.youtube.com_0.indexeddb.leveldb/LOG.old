@@ -1,0 +1,6 @@
+2022/11/26-18:56:01.308 1774 Creating DB D:/Ue4 Projects/LimCo/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/11/26-18:56:01.313 1774 Reusing MANIFEST D:/Ue4 Projects/LimCo/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/26-18:56:05.231 2a98 Level-0 table #5: started
+2022/11/26-18:56:05.233 2a98 Level-0 table #5: 7986 bytes OK
+2022/11/26-18:56:05.234 2a98 Delete type=0 #3
+2022/11/26-18:56:05.235 2a98 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
